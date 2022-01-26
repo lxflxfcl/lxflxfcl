@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 ## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/tidesec/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/lxflxfcl/count.svg)
