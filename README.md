@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lxflxfcl&count_private=true&show_icons=true" width="380">
 
-- [Blog](https://lxflxfcl.github.io/) 
 - 微信公众号：《小艾搞安全》
 - Web/RedTeam 安全爱好者
 - 在偏离攻防实战的路上越走越远
